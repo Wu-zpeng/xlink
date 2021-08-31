@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/classic/classic"
+  ],
+  "window": {
+    "navigationBarBackgroundColor":"#ffff00",
+    "navigationBarTitleText": "小喇叭",
+    "navigationBarTextStyle": "black",
+    "navigationStyle": "default",
+    "backgroundColor": "#ffffff",
+    "enablePullDownRefresh":false
+  }
+}
